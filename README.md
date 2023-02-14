@@ -20,7 +20,7 @@ Label | Sublabel | Preambles | Description
 [13](research/13.md)
 [14](research/14.md)
 [15](research/15.md)
-[16](research/16.md) | | [N ](research/16/N-space.md)
+[16](research/16.md) | | [N ](research/16/N-space.md)| Position Reports
 [17](research/17.md)
 [18](research/18.md)
 [19](research/19.md)
@@ -34,7 +34,7 @@ Label | Sublabel | Preambles | Description
 [1M](research/1M.md)
 [1P](research/1P.md)
 [1X](research/1X.md)
-[20](research/20.md) | | [POS](research/20/POS.md)
+[20](research/20.md) | | [POS](research/20/POS.md), POSN| Position Reports
 21
 22
 23
